@@ -1,0 +1,285 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+
+.container{
+	width:90%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color:#f4f4f4;
+	color:black;
+	height: 50px;
+	font-family: Comic Sans MS;
+	text-align: center;
+	padding-top: 15px;
+}
+#nav-bar{
+	background-color:#8A2BE2;
+}
+
+#nav-bar ul{
+	padding:6px;
+}
+
+#nav-bar li{
+	display:inline;
+}
+
+#nav-bar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:30px;
+	font-family: Raleway;
+}
+
+#showcase{
+	background-position:center right;
+	min-height:300px;
+	margin-bottom:70px;
+	text-align: center;
+}
+
+#showcase h2{
+	text-transform: none;
+	color:#333;
+	font-size:60px;
+	line-height: 1.0em;
+	padding-top:0px;
+	padding-right: 100px;
+	padding-left: 100px;
+	font-weight: normal;
+	overflow-wrap: break-word;
+	font-family: 'Sacramento', cursive;
+}
+#showcase h3{
+	text-transform: none;
+	color:#333;
+	font-size:27px;
+	line-height: 1.0em;
+	padding-right: 100px;
+	padding-left: 100px;
+	font-family: Goudy Old Style;
+}
+#showcase img{
+		border: 5px  #8A2BE2 solid;
+		border-width: 8px;
+
+}
+
+#showcase .button{
+	background-color: #f4f4f4;
+	font-family: normal;
+	font-size: 18px;
+	color: black;
+		border: 5px  black solid;
+		border-width: 1px;
+		padding: 0px 50px;
+		border-radius: 25px;
+
+	
+
+}
+#showcase button:hover{
+	background:#8A2BE2;
+	color:#fff;
+}
+
+
+
+.home-line .line1{
+  float: left;
+  width: 40%;
+  margin-right: 29px;
+
+}
+.home-line .words{
+	  float: left;
+  width: 15%;
+    margin: auto;
+    padding: auto;
+
+
+}
+.home-line .line2{
+	  float: right;
+  width: 40%;
+}
+
+.home-line h1{
+	font-size: 40px;
+	font-family: Brush Script MT;
+}
+
+
+
+
+.container2{
+	width:90%;
+	margin:auto;
+	overflow:hidden;
+}
+
+  
+.home-pics .pic1{
+	border: 5px  #8A2BE2 solid;
+	border-width: 8px;
+  float: left;
+  width: 20%;
+  border-radius: 50%;
+  margin: 62px;
+
+}
+.home-pics .pic2{
+  float: left;
+  width: 20%;
+  border-radius: 50%;
+border: 5px  #8A2BE2 solid;
+	border-width: 8px;
+	  margin: 62px;
+
+}
+.home-pics .pic3{
+  float: left;
+  width:20%;
+  border-radius: 50%;
+ border: 5px  #8A2BE2 solid;
+	border-width: 8px;
+	  margin: 62px;
+
+
+}
+
+
+
+.container2 .par1{
+	padding-top: 20px;
+	float:left;
+	width:31.5%;
+	padding-right:  20px;
+
+}
+.container2 .par2{
+	padding-top: 20px;
+	padding-right:  20px;
+
+	float:left;
+	width:31.5%;
+
+}
+.container2 .par3{
+	padding-top: 20px;
+
+	float:left;
+	width:31.5%;
+}
+
+.par1 #par-header{
+	font-size:18px;
+text-align: center;
+	font-family: Arial;
+	font-weight: lighter;
+}
+
+.par2 #par-header{
+	font-size:18px;
+text-align: center;
+	font-family: Arial;
+	font-weight: lighter;
+}
+.par3 #par-header{
+	font-size:18px;
+text-align: center;
+	font-family: Arial;
+	font-weight: lighter;
+}
+
+.par1 #par-intro{
+	font-size:18px;
+	font-family: Arial;
+	font-weight: lighter;
+}
+.par3 #par-intro{
+	font-size:18px;
+	font-family: Arial;
+		font-weight: lighter;
+
+}
+.par2 #par-body{
+	font-size:18px;
+	font-family: Arial;
+	font-weight: lighter;
+}
+.par3 #par-conclusion{
+	font-size:18px;
+	font-family: Arial;
+	font-weight: lighter;
+}
+
+
+#email-subscribtion #email-address{
+background-color: #f4f4f4;
+	font-family: normal;
+	font-size: 25px;
+	color: black;
+	border: 5px  black solid;
+	border-width: 1px;
+	padding-right:300px;
+	padding-left: 10px;
+
+}
+#email-subscribtion #label{
+padding-left: 70px;
+padding-right: 20px;
+font-family: Arial;
+font-weight: lighter;
+font-size: 25px;
+}
+	
+
+	.container3{
+	width:90%;
+	margin:auto;
+	padding-top: 70px;
+	overflow:hidden;
+}
+#email-subscribtion #submit:hover{
+	background:#8A2BE2;
+	color:#fff;
+}
+
+#email-subscribtion #submit{
+	padding: 5px 35px;
+	font-family: normal;
+	font-size: 20px;
+	color: black;
+	background-color: #f4f4f4;
+	font-family: normal;
+	color: black;
+	border: 5px  black solid;
+	border-width: 1px;
+	border-radius: 25px;
+
+}
+
+.facebook-logo .pic1{
+	padding: 100px 50%;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+
+	
+
+	
+
